@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+/* src/components/CryptocurrencyItem/index.css */
+
+/* Style the individual cryptocurrency item */
+li {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the cryptocurrency image */
+img {
+  max-width: 100px;
+}
+
+/* Additional styles can be added based on your design requirements */

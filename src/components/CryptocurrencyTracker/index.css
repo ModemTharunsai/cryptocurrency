@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Style the background image */
+.background-image {
+  width: 100%;
+  height: auto;
+  opacity: 0.8;
+}
